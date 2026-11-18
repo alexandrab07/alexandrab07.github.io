@@ -1,18 +1,18 @@
 h1, h2, h3 {
-    font-family: 'Playfair Display', serif;   /* your headline font */
+    font-family: 'Playfair Display', serif;   
 }
 
 p, li, a {
-    font-family: 'Open Sans', sans-serif;     /* your paragraph font */
+    font-family: 'Open Sans', sans-serif;     
 }
 
-/* 3. Margins (the assignment asks for padding-left / padding-right) */
+
 .container {
     padding-left: 40px;
     padding-right: 40px;
 }
 
-/* 4. Optional touches */
+
 body {
     background-color: #fafafa;
     color: #222;
@@ -23,6 +23,6 @@ h1 {
 }
 
 img {
-    max-width: 100%;   /* keeps your photo from overflowing on phones */
+    max-width: 100%;   
     height: auto;
 }
