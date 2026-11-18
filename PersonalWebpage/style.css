@@ -11,3 +11,16 @@ header ul {
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  color: #222222;
+  background-color: #ffffff;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #222222;
+  line-height: 1.5;
+}
